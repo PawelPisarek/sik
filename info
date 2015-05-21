@@ -1,0 +1,11 @@
+plik do podgadu planszy pobierajcy 1  json kazdy go dostanie
+
+
+plik z serverem który jeśli wkryje że websockety są nullami to wyswietla że nikt nie połączony lub jesli wykryje
+połaczenie to wyswietli gracza a potem oczekuje na klikniecie przycisku (jesli nacisie to obraz zmienia
+sie w słowo gramy które jest pobrane przez pliki wysyjace jsona)
+i będzie pobierał każdy json i go interpretował
+
+
+jesli podlag planszy == null to wtedy nie wysyla jsona
+plik czekajacy na nacisinecie klawisza i zwracajacy plik tekstowy

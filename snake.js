@@ -48,8 +48,7 @@ $(document).ready(function () {
     //    //Because there are 45(450/10) positions accross the rows and columns
     //}
 
-    var zmiennax = 0;
-    var zmiennay = 0;
+
     //Lets paint the snake now
     function paint() {
         //To avoid the snake trail we need to paint the BG on every frame
@@ -76,12 +75,12 @@ $(document).ready(function () {
 
 
         var wspolzedne = $(".wspozednie").html();
-        if (zmiennax == nx) {
-            wspolzedne=wspolzedne+"<br>";
-            $(".wspozednie").html(wspolzedne);
-        }
-        zmiennax=nx;
-        $(".wspozednie").html(wspolzedne + " " + nx + "," + ny + " | ");
+
+        $(".wspozednie").text( wspolzedne + '{"x":"'+nx+'","y":"'+ny+'"},');
+        var str=$(".wspozednie").html();
+            str = str.substring(0, str.length - 1);
+        $(".wspozednie2").text("[{" +str+"},{"+str +"}]");
+
 
 
         //Lets add the game over clauses now
