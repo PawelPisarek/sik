@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>jQuery UI Datepicker - Display multiple months</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script>
+
+
+        $(function() {
+            var $datepicker = $("#datepicker")
+            $datepicker.datepicker("option", "showOn", "both");
+            $datepicker.datepicker("option", "buttonText", "{% trans from 'homepage' %}Choose{% endtrans %}");
+            $datepicker.datepicker({numberOfMonths: 3, showCurrentAtPos: 1});
+        });
+
+
+
+    </script>
+</head>
+<body>
+
+<p>Date:dddddddddddddddddddddddddddddd <input type="text" id="datepicker"></p>
+
+{"code":"-1","error":"<\/TBODY><\/TABLE><BR><DIV ALIGN=CENTER><TABLE style=\"BORDER-RIGHT: #ff0000 1px solid; BORDER-TOP: #ff0000 1px solid; FONT-SIZE: 75%; BORDER-LEFT: #ff0000 1px solid; BORDER-BOTTOM: #ff0000 1px solid; font-family: sans-serif; border-collapse: collapse;\" cellPadding=3 width=700><TBODY><TR style=\"background-color: #ff0000\"><TD align=middle><B>API ERROR<\/B><\/TD><\/TR><TR><TD>Error reading default parameters definition (SCELLIUS_DIRparam\/parmcom.scellius) <\/TD><\/TR><\/TBODY><\/TABLE><BR><\/DIV>","message":""}
+</body>
+</html>
