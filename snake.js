@@ -30,7 +30,7 @@ $(document).ready(function () {
     init();
 
     function create_snake() {
-        var length = 20; //Length of the snake
+        var length = 1; //Length of the snake
         snake_array = []; //Empty array to start with
         for (var i = length - 1; i >= 0; i--) {
             //This will create a horizontal snake starting from the top left
@@ -51,6 +51,7 @@ $(document).ready(function () {
 
     //Lets paint the snake now
     function paint() {
+
         //To avoid the snake trail we need to paint the BG on every frame
         //Lets paint the canvas now
         ctx.fillStyle = "white";   //wydluza weza
@@ -76,10 +77,25 @@ $(document).ready(function () {
 
         var wspolzedne = $(".wspozednie").html();
 
-        $(".wspozednie").text( wspolzedne + '{"x":"'+nx+'","y":"'+ny+'"},');
+        $(".wspozednie").text( wspolzedne + '{"x":'+nx+',"y":'+ny+'},');
         var str=$(".wspozednie").html();
             str = str.substring(0, str.length - 1);
-        $(".wspozednie2").text("[{" +str+"},{"+str +"}]");
+
+
+
+
+       $(".wspozednie2").text('['+str.toString()+']');
+
+        var TablicaJsonPunktow = $(jQuery.parseJSON( $(".wspozednie2").html())).each(function () {
+            var x = this.x;
+            var y = this.y;
+        });
+
+
+
+        console.log(TablicaJsonPunktow[0].x);
+        console.log(snake_array[0].x);
+        //$(".wspozednie2").text("[{" +str+"},{"+str +"}]");
 
 
 
@@ -114,11 +130,17 @@ $(document).ready(function () {
 
         snake_array.unshift(tail); //puts back the tail as the first cell
 
-        for (var i = 0; i < snake_array.length; i++) {
-            var c = snake_array[i];
+        for (var i = 0; i < TablicaJsonPunktow.length; i++) {
+            var c = TablicaJsonPunktow[i];
             //Lets paint 10px wide cells
             paint_cell(c.x, c.y);
         }
+
+
+
+
+        //var obj = jQuery.parseJSON( wspolzedne );
+
 
         //Lets paint the food
         //paint_cell(food.x, food.y);
@@ -126,6 +148,9 @@ $(document).ready(function () {
 
         var score_text = "Score: " + score;
         ctx.fillText(score_text, 5, h - 5);
+
+
+
     }
 
     //Lets first create a generic function to paint cells
