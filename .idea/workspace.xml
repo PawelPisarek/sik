@@ -2,7 +2,271 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05b33ad2-e69d-481a-ad5f-58bb911fa27f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Release/bufferutil.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Release/obj.target/bufferutil.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Release/obj.target/bufferutil/src/bufferutil.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Release/linker.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Release/linker.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Release/validation.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Release/obj.target/validation.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Release/obj.target/validation/src/validation.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/.dntrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/.dntrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/options/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/ultron/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/ultron/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/BufferPool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/BufferUtil.fallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/BufferUtil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/monitor/ConsoleReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/ErrorCodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/Extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/options/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/PerMessageDeflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/es6-shim/Promise.browserify-es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/es6-shim/Promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/Promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/monitor/PromiseMonitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/docs/QuickStartGuide.wiki" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/es6-shim/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/monitor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/bindings/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/options/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/ultron/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/bindings/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/Receiver.hixie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/Receiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/Scheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/Sender.hixie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/Sender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/TimeoutError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/Validation.fallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/Validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/krosbar/VersionProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/WebSocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/WebSocketServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/aes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/apply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/autobahn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/binding.Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/binding.Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/binding.gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/binding.gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/bindings/bindings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/bindings/bindings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/src/bufferutil.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Release/.deps/Release/bufferutil.node.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Release/.deps/Release/obj.target/bufferutil.node.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/Release/.deps/Release/obj.target/bufferutil/src/bufferutil.o.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/bufferutil.target.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/cancelable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/cipher-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/build/config.gypi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/config.gypi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/krosbar/.crossbar/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/.crossbar/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/configure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/monitor/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/auth/cra.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/crypto-js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/enc-base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/enc-hex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/enc-latin1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/enc-utf16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/enc-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/monitor/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/evpkdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/fallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/fallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/flow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/format-hex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/format-openssl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/node/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/guard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-md5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-ripemd160.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-sha1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-sha224.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-sha256.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-sha3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-sha384.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac-sha512.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/hmac.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/include_dirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/include_dirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/ultron/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/inspect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/iterate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/lib-typedarrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/liftAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/unfold/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/transport/longpoll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/makePromise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/md5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/mode-cfb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/mode-ctr-gladman.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/mode-ctr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/mode-ecb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/mode-ofb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/monitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_implementation_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_implementation_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_implementation_pre_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_implementation_pre_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_new.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_new.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_string_bytes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_string_bytes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/.crossbar/node.pid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/npm-debug.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/options/lib/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/bindings/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/bufferutil/node_modules/nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/options/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/ultron/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/bindings/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/pad-ansix923.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/pad-iso10126.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/pad-iso97971.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/pad-nopadding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/pad-pkcs7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/pad-zeropadding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/parallel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/pbkdf2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/auth/persona.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/pipeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/poll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/rabbit-legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/rabbit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/rc4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/ripemd160.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/sequence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/sha1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/sha224.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/sha256.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/sha3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/sha384.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/sha512.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/krosbar/start.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/ultron/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_connect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_connect.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_basic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_complex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_complex.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_eligible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_eligible.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_exclude.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_exclude.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_excludeme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_excludeme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_options.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_prefix_sub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_prefix_sub.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_wildcard_sub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_pubsub_wildcard_sub.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_arguments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_arguments.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_complex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_complex.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_error.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_options.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_progress.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_routing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_routing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_slowsquare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/test_rpc_slowsquare.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/test/testutil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/timed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/tripledes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/polyfill/typedarray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/unfold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/unhandledRejection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/src/validation.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Release/.deps/Release/validation.node.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Release/.deps/Release/obj.target/validation.node.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/Release/.deps/Release/obj.target/validation/src/validation.o.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/ws/node_modules/utf-8-validate/build/validation.target.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/lib/transport/websocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/when.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/when/lib/decorators/with.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testkrosbar/snake/node_modules/autobahn/node_modules/crypto-js/x64-core.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snake.js" afterPath="$PROJECT_DIR$/snake.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -30,13 +294,55 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="450">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state vertical-scroll-proportion="-31.74074" vertical-offset="691" max-vertical-offset="2034">
+              <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testkrosbar/snake/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.7407408" vertical-offset="1771" max-vertical-offset="2412">
+              <caret line="104" column="26" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testkrosbar/snake/node/hello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1227" max-vertical-offset="2052">
+              <caret line="98" column="82" selection-start-line="98" selection-start-column="82" selection-end-line="98" selection-end-column="82" />
               <folding>
-                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontend.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/web/js/frontend.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1674">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="36" selection-end-column="11" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/.crossbar/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.888889" vertical-offset="552" max-vertical-offset="1152">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,48 +350,28 @@
       <file leaf-file-name="snake.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snake.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4224873" vertical-offset="1998" max-vertical-offset="3438">
-              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.5864662" vertical-offset="1404" max-vertical-offset="3438">
+              <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DHTML.js" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="21228" max-vertical-offset="86418">
-              <caret line="1191" column="17" selection-start-line="1191" selection-start-column="17" selection-end-line="1191" selection-end-column="17" />
+            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitgnore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitgnore">
+      <file leaf-file-name="backend.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/node/backend.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EcmaScript5.js" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2905" max-vertical-offset="3546">
-              <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EcmaScript.js" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2617" max-vertical-offset="16884">
-              <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+            <state vertical-scroll-proportion="-6.387097" vertical-offset="900" max-vertical-offset="1890">
+              <caret line="61" column="49" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -107,7 +393,25 @@
         <option value="$PROJECT_DIR$/index.php.html" />
         <option value="$PROJECT_DIR$/.gitgnore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/VersionProvider.php" />
+        <option value="$PROJECT_DIR$/start.php" />
+        <option value="$PROJECT_DIR$/.crossbar/config.json" />
+        <option value="$PROJECT_DIR$/krosbar/VersionProvider.php" />
         <option value="$PROJECT_DIR$/snake.js" />
+        <option value="$PROJECT_DIR$/krosbar/start.php" />
+        <option value="$PROJECT_DIR$/krosbar/vendor/vinelab/minion/src/Vinelab/Minion/Minion.php" />
+        <option value="$PROJECT_DIR$/crossbarexamples/hello/php/vendor/voryx/thruway/src/Thruway/Peer/Client.php" />
+        <option value="$PROJECT_DIR$/crossbarexamples/demos/pubsub/vendor/react/event-loop/LoopInterface.php" />
+        <option value="$PROJECT_DIR$/krosbar/vendor/vinelab/minion/src/Vinelab/Minion/Client.php" />
+        <option value="$PROJECT_DIR$/crossbarexamples/wamp/index.php" />
+        <option value="$PROJECT_DIR$/crossbarexamples/demos/pubsub/js/pubsub.js" />
+        <option value="$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/.crossbar/config.json" />
+        <option value="$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/node/backend.js" />
+        <option value="$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/web/js/frontend.js" />
+        <option value="$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/web/index.html" />
+        <option value="$PROJECT_DIR$/testkrosbar/snake/node/bakend.js" />
+        <option value="$PROJECT_DIR$/testkrosbar/snake/node/hello.js" />
+        <option value="$PROJECT_DIR$/testkrosbar/snake/web/index.html" />
       </list>
     </option>
   </component>
@@ -144,6 +448,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,9 +467,84 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testkrosbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testkrosbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testkrosbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testkrosbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,9 +552,21 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="last_opened_file_path" value="$USER_HOME$/Dokumenty/windows/pendrive/PhpstormProjects/grill" />
     <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/crossbarexamples/demos/pubsub" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/krosbar" />
+      <recent name="$PROJECT_DIR$/crossbarexamples/demos/pubsub/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -191,6 +583,9 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -198,9 +593,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -220,49 +612,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="24" width="1315" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924962" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26039216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24941176" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -285,29 +657,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="450">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snake.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1512" max-vertical-offset="2988">
-          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitgnore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -315,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2905" max-vertical-offset="3546">
           <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -323,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2617" max-vertical-offset="16884">
           <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -331,9 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="450">
           <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -349,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -357,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2905" max-vertical-offset="3546">
           <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -365,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2617" max-vertical-offset="16884">
           <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -373,9 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="414">
           <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -391,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2905" max-vertical-offset="3546">
           <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,7 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2617" max-vertical-offset="16884">
           <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -407,7 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2617" max-vertical-offset="16884">
           <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,7 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2905" max-vertical-offset="3546">
           <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,20 +772,269 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/hello/php/.crossbar/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.0" vertical-offset="216" max-vertical-offset="1026">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/pubsub/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/hello/php/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="2412">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/hello/php/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.444445" vertical-offset="282" max-vertical-offset="1530">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4074073" vertical-offset="8998" max-vertical-offset="18306">
+          <caret line="511" column="9" selection-start-line="511" selection-start-column="9" selection-end-line="511" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/vendor/vinelab/minion/minion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/vendor/vinelab/minion/src/Vinelab/Minion/Dictionary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="1710">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/vendor/vinelab/minion/src/config/minion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="1062">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/vendor/vinelab/minion/tests/unit/MinionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1386">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="198">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="19272" max-vertical-offset="25056">
+          <caret line="1082" column="9" selection-start-line="1082" selection-start-column="9" selection-end-line="1082" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/vendor/vinelab/minion/src/Vinelab/Minion/Provider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="1404">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/.crossbar/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="774">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/vendor/vinelab/minion/src/Vinelab/Minion/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9011925" vertical-offset="0" max-vertical-offset="4698">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/vendor/vinelab/minion/src/Vinelab/Minion/Minion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.24" vertical-offset="2766" max-vertical-offset="3366">
+          <caret line="80" column="25" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/wamp/vendor/voryx/thruway/src/Thruway/ClientSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9642248" vertical-offset="1956" max-vertical-offset="2628">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/pubsub/vendor/voryx/thruway/src/Thruway/Peer/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34833333" vertical-offset="2779" max-vertical-offset="11070">
+          <caret line="187" column="20" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/wamp/vendor/voryx/thruway/src/Thruway/Transport/PawlTransportProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.88926744" vertical-offset="0" max-vertical-offset="2466">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/hello/php/vendor/voryx/thruway/src/Thruway/Peer/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="3436" max-vertical-offset="11070">
+          <caret line="223" column="20" selection-start-line="223" selection-start-column="20" selection-end-line="223" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/pubsub/vendor/react/event-loop/LoopInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61" vertical-offset="1686" max-vertical-offset="2286">
+          <caret line="114" column="20" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/wamp/vendor/voryx/thruway/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9168081" vertical-offset="113" max-vertical-offset="2754">
+          <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/VersionProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="522">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krosbar/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="666">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/wamp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="972">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#50#76#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/pubsub/.crossbar/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09" vertical-offset="0" max-vertical-offset="954">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/pubsub/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12265758" vertical-offset="90" max-vertical-offset="3078">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <marker date="1433360189225" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/pubsub/js/pubsub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.7068405" vertical-offset="5670" max-vertical-offset="6660">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.74074" vertical-offset="691" max-vertical-offset="2034">
+          <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/node/backend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.387097" vertical-offset="900" max-vertical-offset="1890">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/.crossbar/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.888889" vertical-offset="552" max-vertical-offset="1152">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossbarexamples/demos/votes/nodejs/web/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1674">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testkrosbar/snake/node/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1227" max-vertical-offset="2052">
+          <caret line="98" column="82" selection-start-line="98" selection-start-column="82" selection-end-line="98" selection-end-column="82" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="450">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testkrosbar/snake/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7407408" vertical-offset="1771" max-vertical-offset="2412">
+          <caret line="104" column="26" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/snake.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4224873" vertical-offset="1998" max-vertical-offset="3438">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.5864662" vertical-offset="1404" max-vertical-offset="3438">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
           <folding />
         </state>
       </provider>
