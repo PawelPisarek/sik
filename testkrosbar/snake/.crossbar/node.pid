@@ -1,0 +1,16 @@
+{
+   "pid": 10517,
+   "argv": [
+      "/usr/bin/crossbar",
+      "start"
+   ],
+   "options": {
+      "loglevel": "info",
+      "logdir": null,
+      "config": "/home/pawel/PhpstormProjects/snake/testkrosbar/snake/.crossbar/config.json",
+      "cbdir": "/home/pawel/PhpstormProjects/snake/testkrosbar/snake/.crossbar",
+      "command": "start",
+      "reactor": null,
+      "debug": false
+   }
+}

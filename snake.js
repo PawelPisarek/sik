@@ -48,7 +48,7 @@ $(document).ready(function () {
     //    //Because there are 45(450/10) positions accross the rows and columns
     //}
 
-
+s
     //Lets paint the snake now
     function paint() {
 

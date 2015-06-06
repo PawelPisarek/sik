@@ -1,0 +1,5 @@
+{
+    "require": {
+        "vinelab/minion": "^1.3"
+    }
+}
