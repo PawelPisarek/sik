@@ -29,9 +29,13 @@
 -->
 <html>
 <body>
-<h1>Hello WAMP</h1>
+<h1>Jak to odpalic?</h1>
 
-<p class="info">Open JavaScript console to watch output.</p>
+<p class="info">1. w konsoli crossbar start
+                2. odpalamy dwa okna
+                3. klikamy jeszcze raz
+                4. klikamy start
+</p>
 
 <p class="wspozednie2Gracza1"></p>
 
@@ -46,7 +50,7 @@
 <p class="wspozednie2"></p>
 
 
-<button class="gracz1">sddasdsad</button>
+<button class="gracz1">start</button>
 <button class="jeszczeraz">jeszczeraz</button>
 <script>AUTOBAHN_DEBUG = false;</script>
 <script src="http://autobahn.s3.amazonaws.com/autobahnjs/latest/autobahn.min.jgz"></script>
@@ -81,28 +85,27 @@
     };
 
     function main(session) {
-        var przyciskGRACZA1 = $(".gracz1");
 
 
-        $(document).ready(function () {
+
             session.subscribe("io.crossbar.demo.pobierzTabliceGracza1",
                     function (args) {
                         var wspol = args[0];
-                        $(".wspozednie2Gracza1").text(wspol);
+                        $(".wspozednie2Gracza1").text(JSON.stringify(wspol));
 
                     });
             session.subscribe("io.crossbar.demo.pobierzTabliceGracza2",
                     function (args) {
                         var wspol = args[0];
-                        $(".wspozednie2Gracza2").text(wspol);
+                        $(".wspozednie2Gracza2").text(JSON.stringify(wspol));;
                     });
             session.subscribe("io.crossbar.demo.pobierzTabliceGracza3",
                     function (args) {
                         var wspol = args[0];
-                        $(".wspozednie2Gracza3").text(wspol);
+                        $(".wspozednie2Gracza3").text(JSON.stringify(wspol));;
                     });
 
-
+        $(document).ready(function () {
             //Canvas stuff
             var canvas = $("#canvas")[0];
             var ctx = canvas.getContext("2d");
@@ -127,17 +130,22 @@
                 });
 
 
-
 //                if (wspolzedne=="" ||  wspolzedne==" ")
 //                {
 //
 //                }
 //                else
 //                {
-                    snake_array=[];
-                    for (var i = TablicaJsonPunktow.length; i >= 0; i--) {
+                snake_array=[];
+                for (var i = TablicaJsonPunktow.length; i >= 0; i--) {
                         //This will create a horizontal snake starting from the top left
-                        snake_array.push(TablicaJsonPunktow[i]);
+//                       //--------------------------------------
+
+                        //tu jest zero a czemu to nie wiem
+
+
+                        ////////------------------------
+                        snake_array.push(TablicaJsonPunktow[0]);
                     }
 //                    snake_array=TablicaJsonPunktow;
 //                }
@@ -210,7 +218,6 @@
                 score++;
 
 
-                console.log(snake_array);
                 snake_array.unshift(tail); //puts back the tail as the first cell
 
                 for (var i = 0; i < TablicaJsonPunktow.length; i++) {
@@ -227,12 +234,16 @@
             }
 
 
+$(".gracz1").click(function(){
+
+    init();
+})
             $(".jeszczeraz").click(function () {
                 session.call("io.crossbar.demo.zacznijjesczeraz").then(session.log);
 //                $(".wspozednie").text(" ");
 
 
-                init();
+
 
                 //Lets organize the code a bit now.
                 return;
