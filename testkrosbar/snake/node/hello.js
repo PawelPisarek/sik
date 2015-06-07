@@ -82,7 +82,16 @@ function main (session) {
     var jeszczeraz = function(args, kwargs, details) {
 
 
-        gracz1="";
+
+
+            var length = 1; //Length of the snake
+            gracz1 = []; //Empty array to start with
+            for (var i = length - 1; i >= 0; i--) {
+                //This will create a horizontal snake starting from the top left
+                gracz1.push({x: i, y: 0});
+            }
+
+
 
 
         // publikuje tablice json gracza dla wyszystkich suskrybentow

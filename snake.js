@@ -48,7 +48,6 @@ $(document).ready(function () {
     //    //Because there are 45(450/10) positions accross the rows and columns
     //}
 
-s
     //Lets paint the snake now
     function paint() {
 
@@ -75,8 +74,14 @@ s
         else if (d == "down") ny++;
 
 
-        var wspolzedne = $(".wspozednie").html();
+        var sad = $(".wspozednie2").html();
 
+        if (sad=="" ||  sad==" ")console.log(sad);
+
+
+
+
+        var wspolzedne = $(".wspozednie").html();
         $(".wspozednie").text( wspolzedne + '{"x":'+nx+',"y":'+ny+'},');
         var str=$(".wspozednie").html();
             str = str.substring(0, str.length - 1);
@@ -93,8 +98,8 @@ s
 
 
 
-        console.log(TablicaJsonPunktow[0].x);
-        console.log(snake_array[0].x);
+        //console.log(TablicaJsonPunktow[0].x);
+        //console.log(snake_array[0].x);
         //$(".wspozednie2").text("[{" +str+"},{"+str +"}]");
 
 
